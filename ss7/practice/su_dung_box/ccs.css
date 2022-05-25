@@ -1,0 +1,22 @@
+.main{
+    border: 2px solid;
+    border-image-slice: 1;
+    /*border-width: 10px;*/
+    border-image-source: linear-gradient(to left,#76ff65, #d53a9d,cornflowerblue,crimson,black,yellow);
+padding: 5%;
+    margin: 0 auto;
+
+}
+p{
+    margin-top: 20px;
+    border: 3px dotted darkred;
+    border-image-slice: 1;
+    /*border-image-source: linear-gradient(to left,#76ff65, #d53a9d,cornflowerblue,crimson,black,yellow);*/
+
+}
+/*.main{*/
+/*    border: 2px solid ;*/
+/*    border-color: peru rosybrown crimson black;*/
+
+/*}*/
+    /*border-bottom-color:  linear-gradient(to bottom right, black, white);*/

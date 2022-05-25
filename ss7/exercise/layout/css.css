@@ -61,3 +61,15 @@
     .col-l-11 {width: 91.66667%;}
     .col-l-12 {width: 100%;}
 }
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header, .footer {
+    background: black;
+    height: 80px;
+    color: white;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

@@ -60,4 +60,18 @@
     .col-l-10 {width: 83.33333%;}
     .col-l-11 {width: 91.66667%;}
     .col-l-12 {width: 100%;}
+
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header, .footer {
+    background: #7abaff;
+    height: 30px;
+    color: white;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    /*justify-content: space-around;*/
 }
