@@ -66,10 +66,24 @@
     flex-wrap: wrap;
 }
 .header, .footer {
-    background: black;
+    background: white;
     height: 80px;
     color: white;
     margin: 0;
     display: flex;
     align-items: center;
+}
+.icon{
+    width: 50px;
+    height: 50px;
+;
+}
+.border{
+    border-radius: 15px;
+}
+.color{
+  background: darkgray;
+}
+.mb-15{
+    margin-bottom: 15px;
 }
