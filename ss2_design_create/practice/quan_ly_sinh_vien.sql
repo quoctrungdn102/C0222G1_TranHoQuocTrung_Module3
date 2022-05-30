@@ -40,5 +40,4 @@ select*from student;
 select*from `subject`;
 select*from mark;
 
-
  
